@@ -1,1 +1,2 @@
 # Bobcat-population-model
+Based on modeling the hypothetical bobcat population, we want to investigate three research questions. The first is what are the long-term behaviour of the bobcat population and the distribution of populations over a period with best and worst-case parameters. Additionally, we want to explore what are the effects of conservation and wildlife management strategies on the bobcat population.
